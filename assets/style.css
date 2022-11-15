@@ -1,0 +1,62 @@
+* {
+padding:0;
+margin:0;
+}
+
+html, body {
+width: 100%;
+height: 100vh;
+box-sizing: border-box;
+background-color:rgb(27, 28, 27);
+}
+
+footer {
+
+width: 100%;
+background-color: rgb(242, 242, 236);
+padding-bottom: 50px;
+
+}
+
+footer p {
+font-size: 1.25rem;
+text-align: center;
+text-shadow: 1px 1px 1px #000;
+text-transform: uppercase;    
+}
+
+
+h1 {
+
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:white;
+font-size: 2.25rem;
+font-weight: bolder;
+margin-bottom: 30px;
+}
+
+
+p {   
+color: #000;
+text-align: justify;
+font-size: 1.30rem;
+}
+
+
+.card {
+margin:10px;
+height: auto;
+padding: 10px;  
+box-shadow: 50px black;
+}
+
+img:hover {
+transform: scale(1.2, 1.2);    
+}  
+
+span {
+
+    color: azure;
+
+}
